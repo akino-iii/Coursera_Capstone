@@ -5,6 +5,7 @@ Usually, they simply find the closest place to the university available and then
 But the core mistake is lack of analysis, the majority do not perform research in order to understand whether the place is good or bad. That is why it might happen that no customers would appear. Reasons differ - sometimes it depends on competitors, sometimes on place that is not popular enough.
 As a result, most of them bankrupt less than in a year and loose their investments.
 What we are going to go is to discover Moscow universities in order to find a location that would be great to set a coffee point there.
+This research would help those who wants to start their business in a student age ang give them understandable metrics to properly evaluate their ideas.
 
 Business Problem
 
@@ -31,7 +32,9 @@ I will use it for discovering venues in cafe category that already exists near u
 We will try to compare them to find the place that has many students, but no cafe venues nearby.
 
 2) Russian Federal State Statistics service 
-This one is for obtaining data about rent prices through the years. Also it might help to find a place with a cheapest rent price\
+It is a federal service that collect statistic data about every aspect of economical life in Russia, so it is very useful when it comes to getting officiant and accurate data.
+This one is for obtaining data about rent prices through the years. Also it might help to find a place with a cheapest rent price.
 
 3) Wikipedia
 To pick top-20 universities’s and their web-cites and to find out how many students each of them has.
+All we are looking for is a dataset of universities, their locations and number of students.
