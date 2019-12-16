@@ -1,0 +1,37 @@
+Introduction
+
+It’s a common idea for students to open a coffee point near their universities. In fact, it is #1 idea student come up with. It seems quite simple and requires minimal investments - because you do not need to rent a huge location and equipment is cheap comparing to other types of venues.
+Usually, they simply find the closest place to the university available and then rent a corner to set a bar counter with a couple of chairs. The only thing left is to find a barista and now you are ready.
+But the core mistake is lack of analysis, the majority do not perform research in order to understand whether the place is good or bad. That is why it might happen that no customers would appear. Reasons differ - sometimes it depends on competitors, sometimes on place that is not popular enough.
+As a result, most of them bankrupt less than in a year and loose their investments.
+What we are going to go is to discover Moscow universities in order to find a location that would be great to set a coffee point there.
+
+Business Problem
+
+As soon as we are going to find a great place for coffee point near one of universities, we have to develop some hypothesis about metrics, that would help us to evaluate a specific location and rank it properly.
+The task of the research is to measure three most important metrics for opening a coffee point for answering the following questions:
+
+1) Is a place popular?
+The answer is crucial for understanding whether or not you should even think about opening a venue here.
+Will there be enough customers for your business?
+
+2) How many competitors will you have?
+That is important because you would compete with them for customer’s attention.
+
+3) Is a place expensive?
+As soon as equipment’s cost is constant from place to place, the main cost you will suffer from is rent price - the cheaper the better.
+
+
+Data
+
+I will use the following data:
+
+1) Foursquare API 
+I will use it for discovering venues in cafe category that already exists near universities. 
+We will try to compare them to find the place that has many students, but no cafe venues nearby.
+
+2) Russian Federal State Statistics service 
+This one is for obtaining data about rent prices through the years. Also it might help to find a place with a cheapest rent price\
+
+3) Wikipedia
+To pick top-20 universities’s and their web-cites and to find out how many students each of them has.
